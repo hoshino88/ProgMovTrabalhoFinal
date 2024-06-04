@@ -1,7 +1,7 @@
 # ProgMovTrabalhoFinal
 Alunos: Alex Yasohati Hoshino & Luiz Ricardo Vilhalva Medina
 O app MangaFree oferece: 
--Diversos mangás e quadrinhos de graça sem anúncios;\n 
+-Diversos mangás e quadrinhos de graça sem anúncios;
 -Um sistema de cadastro e login para favoritar os quadrinhos ou mangás à escolha do usuário;
 -O sistema deve dar a opção para o usuário fazer login;
 -O usuário deve ser capaz de desconectar (logout) do sistema;
