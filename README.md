@@ -11,7 +11,7 @@ O app MangaFree oferece:
 -O sistema deve permitir que o usuário possa ver informações sobre o quadrinho ou mangá, como o resumo ou categoria que ele se encaixa;
 -O sistema deve permitir a busca de quadrinhos e mangás por nome;
 -O sistema deve permitir ao usuário logado favoritar quadrinhos ou mangás;
--O sistema deve mostrar a listagem de episódios favoritados do usuário logado;
--O sistema deve permitir ao usuário logado remover um episódio da lista de favoritos;
+-O sistema deve mostrar a listagem de mangas favoritados do usuário logado;
+-O sistema deve permitir ao usuário logado remover um manga da lista de favoritos;
 -O sistema deve permir ao usuário logado alterar sua foto de perfil;
 -O sistema deve permitir o usuário logado comentar na página do mangá;
